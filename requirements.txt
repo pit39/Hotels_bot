@@ -1,0 +1,7 @@
+
+
+requests
+pyTelegramBotAPI
+telebot-calendar
+python-dotenv
+aiohttp
